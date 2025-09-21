@@ -1,0 +1,321 @@
+2025-09-20 09:20:33 - [ALERT] ICMP Echo Request Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:20:34 - [ALERT] ICMP Echo Request Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:21:09 - [ALERT] ICMP Echo Request Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:21:10 - [ALERT] ICMP Echo Request Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:31:35 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:31:35 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:31:36 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:31:36 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:20 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:20 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:21 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:21 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:22 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:22 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:23 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:23 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:24 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:24 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:25 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:25 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:26 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:26 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:27 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:27 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:28 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:28 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:29 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:29 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:30 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:30 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:31 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:31 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:32 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:32 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:33 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:33 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:34 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:34 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:35 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:35 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:36 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:36 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:36:37 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:36:37 - [ALERT] ICMP Packet Detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:15 - [ALERT] dns query detected: Ether / IP / UDP / NTP v4, client
+2025-09-20 09:53:15 - [ALERT] dhcp request detected: Ether / IP / UDP / NTP v4, client
+2025-09-20 09:53:15 - [ALERT] dhcp response detected: Ether / IP / UDP / NTP v4, client
+2025-09-20 09:53:16 - [ALERT] dns query detected: Ether / IP / UDP / NTP v4, server
+2025-09-20 09:53:16 - [ALERT] dhcp request detected: Ether / IP / UDP / NTP v4, server
+2025-09-20 09:53:16 - [ALERT] dhcp response detected: Ether / IP / UDP / NTP v4, server
+2025-09-20 09:53:18 - [ALERT] dns query detected: Ether / IP / UDP / DNS Qry b'_googlecast._tcp.local.'
+2025-09-20 09:53:18 - [ALERT] dhcp request detected: Ether / IP / UDP / DNS Qry b'_googlecast._tcp.local.'
+2025-09-20 09:53:18 - [ALERT] dhcp response detected: Ether / IP / UDP / DNS Qry b'_googlecast._tcp.local.'
+2025-09-20 09:53:26 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:26 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:27 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:27 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:28 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:28 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:29 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:29 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:30 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:30 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:31 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:31 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:32 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:32 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:33 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:33 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:34 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:34 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:35 - [ALERT] dns query detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:35 - [ALERT] dhcp request detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:35 - [ALERT] dhcp response detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:35 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:35 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:36 - [ALERT] dns query detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:36 - [ALERT] dhcp request detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:36 - [ALERT] dhcp response detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:36 - [ALERT] dns query detected: Ether / IP / UDP 192.168.16.109:50657 > 224.0.0.252:5355 / LLMNRQuery who has 'Vitabhya.'
+2025-09-20 09:53:36 - [ALERT] dhcp request detected: Ether / IP / UDP 192.168.16.109:50657 > 224.0.0.252:5355 / LLMNRQuery who has 'Vitabhya.'
+2025-09-20 09:53:36 - [ALERT] dhcp response detected: Ether / IP / UDP 192.168.16.109:50657 > 224.0.0.252:5355 / LLMNRQuery who has 'Vitabhya.'
+2025-09-20 09:53:36 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:36 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:36 - [ALERT] dns query detected: Ether / IP / UDP 192.168.16.109:50657 > 224.0.0.252:5355 / LLMNRQuery who has 'Vitabhya.'
+2025-09-20 09:53:36 - [ALERT] dhcp request detected: Ether / IP / UDP 192.168.16.109:50657 > 224.0.0.252:5355 / LLMNRQuery who has 'Vitabhya.'
+2025-09-20 09:53:36 - [ALERT] dhcp response detected: Ether / IP / UDP 192.168.16.109:50657 > 224.0.0.252:5355 / LLMNRQuery who has 'Vitabhya.'
+2025-09-20 09:53:37 - [ALERT] dns query detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:37 - [ALERT] dhcp request detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:37 - [ALERT] dhcp response detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:37 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:37 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:37 - [ALERT] dns query detected: Ether / IP / UDP / DNS Qry b'_googlecast._tcp.local.'
+2025-09-20 09:53:37 - [ALERT] dhcp request detected: Ether / IP / UDP / DNS Qry b'_googlecast._tcp.local.'
+2025-09-20 09:53:37 - [ALERT] dhcp response detected: Ether / IP / UDP / DNS Qry b'_googlecast._tcp.local.'
+2025-09-20 09:53:38 - [ALERT] dns query detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:38 - [ALERT] dhcp request detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:38 - [ALERT] dhcp response detected: Ether / IP / UDP 192.168.16.109:54655 > 239.255.255.250:1900 / Raw
+2025-09-20 09:53:38 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:38 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:39 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:39 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:40 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:40 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:41 - [ALERT] icmp echo request detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 09:53:41 - [ALERT] icmp echo request detected: Ether / IP / ICMP 8.8.8.8 > 192.168.16.116 echo-reply 0 / Raw
+2025-09-20 09:53:58 - [ALERT] dns query detected: Ether / IP / UDP / DNS Qry b'_googlecast._tcp.local.'
+2025-09-20 09:53:58 - [ALERT] dhcp request detected: Ether / IP / UDP / DNS Qry b'_googlecast._tcp.local.'
+2025-09-20 09:53:58 - [ALERT] dhcp response detected: Ether / IP / UDP / DNS Qry b'_googlecast._tcp.local.'
+2025-09-20 09:54:15 - [ALERT] dns query detected: Ether / IP / UDP 192.168.16.106:60478 > 239.255.255.250:1900 / Raw
+2025-09-20 09:54:15 - [ALERT] dhcp request detected: Ether / IP / UDP 192.168.16.106:60478 > 239.255.255.250:1900 / Raw
+2025-09-20 09:54:15 - [ALERT] dhcp response detected: Ether / IP / UDP 192.168.16.106:60478 > 239.255.255.250:1900 / Raw
+2025-09-20 09:54:17 - [ALERT] dns query detected: Ether / IP / UDP 192.168.16.106:60478 > 239.255.255.250:1900 / Raw
+2025-09-20 09:54:17 - [ALERT] dhcp request detected: Ether / IP / UDP 192.168.16.106:60478 > 239.255.255.250:1900 / Raw
+2025-09-20 09:54:17 - [ALERT] dhcp response detected: Ether / IP / UDP 192.168.16.106:60478 > 239.255.255.250:1900 / Raw
+2025-09-20 10:05:21 - [ALERT] ICMP Echo Request Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 10:05:22 - [ALERT] ICMP Echo Request Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 10:05:24 - [ALERT] ICMP Echo Request Detected: Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw
+2025-09-20 10:05:25 - [ALERT] DNS Query Detected: Ether / IP / UDP / DNS Qry b'example.com.'
+2025-09-20 10:05:25 - [ALERT] DNS Query Detected: Ether / IP / UDP / DNS Qry b'example.com.'
+2025-09-20 10:05:25 - [ALERT] HTTP Traffic Detected: Ether / IP / TCP 192.168.16.116:59454 > 23.220.75.232:http S
+2025-09-20 10:05:25 - [ALERT] HTTP Traffic Detected: Ether / IP / TCP 192.168.16.116:59454 > 23.220.75.232:http A
+2025-09-20 10:05:25 - [ALERT] HTTP Traffic Detected: Ether / IP / TCP 192.168.16.116:59454 > 23.220.75.232:http PA / Raw
+2025-09-20 10:05:25 - [ALERT] HTTP Traffic Detected: Ether / IP / TCP 192.168.16.116:59454 > 23.220.75.232:http A
+2025-09-20 10:05:25 - [ALERT] HTTP Traffic Detected: Ether / IP / TCP 192.168.16.116:59454 > 23.220.75.232:http FA
+2025-09-20 10:05:25 - [ALERT] HTTP Traffic Detected: Ether / IP / TCP 192.168.16.116:59454 > 23.220.75.232:http A
+2025-09-20 10:05:25 - [ALERT] DNS Query Detected: Ether / IP / UDP / DNS Qry b'example.com.'
+2025-09-20 10:05:25 - [ALERT] DNS Query Detected: Ether / IP / UDP / DNS Qry b'example.com.'
+2025-09-20 10:05:25 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https S
+2025-09-20 10:05:26 - [ALERT] HTTP Traffic Detected: Ether / IP / TCP 192.168.16.116:59454 > 23.220.75.232:http A
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https A
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https PA / Raw
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https A
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https A
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https PA / Raw
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https PA / Raw
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https PA / Raw
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https PA / Raw
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https A
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https A
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https A
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https A
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https PA / Raw
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https A
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https PA / Raw
+2025-09-20 10:05:26 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https FA
+2025-09-20 10:05:27 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https R
+2025-09-20 10:05:27 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https R
+2025-09-20 10:05:27 - [ALERT] TLS/SSL Traffic Detected: Ether / IP / TCP 192.168.16.116:60090 > 23.220.75.245:https R
+2025-09-20 10:05:29 - [ALERT] DNS Query Detected: Ether / IP / UDP / DNS Qry b'example.com.'
+2025-09-20 10:05:29 - [ALERT] DNS Query Detected: Ether / IP / UDP / DNS Qry b'example.com.'
+2025-09-20 10:05:30 - [ALERT] DHCP Request Detected: Ether / IP / UDP / BOOTP / DHCP Release
+2025-09-20 10:05:31 - [ALERT] DHCP Request Detected: Ether / IP / UDP / BOOTP / DHCP Discover
+2025-09-20 10:05:31 - [ALERT] DHCP Response Detected: Ether / IP / UDP / BOOTP / DHCP Offer
+2025-09-20 10:05:31 - [ALERT] DHCP Request Detected: Ether / IP / UDP / BOOTP / DHCP Request
+2025-09-20 10:05:31 - [ALERT] DHCP Response Detected: Ether / IP / UDP / BOOTP / DHCP Ack
+2025-09-20 10:05:36 - [ALERT] DHCP Request Detected: Ether / IP / UDP / BOOTP / DHCP Request
+2025-09-20 10:06:38 - [ALERT] DHCP Request Detected: Ether / IP / UDP / BOOTP / DHCP Request
+2025-09-20 10:31:25 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Request - Severity: low
+2025-09-20 10:32:06 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 10:32:08 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 10:32:09 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 10:32:10 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:52088 > 23.192.228.80:http S - Severity: low
+2025-09-20 10:32:10 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:52088 > 23.192.228.80:http A - Severity: low
+2025-09-20 10:32:10 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:52088 > 23.192.228.80:http PA / Raw - Severity: low
+2025-09-20 10:32:10 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:52088 > 23.192.228.80:http A - Severity: low
+2025-09-20 10:32:10 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:52088 > 23.192.228.80:http FA - Severity: low
+2025-09-20 10:32:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https S - Severity: low
+2025-09-20 10:32:11 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:52088 > 23.192.228.80:http A - Severity: low
+2025-09-20 10:32:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https A - Severity: low
+2025-09-20 10:32:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https PA / Raw - Severity: low
+2025-09-20 10:32:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https A - Severity: low
+2025-09-20 10:32:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https A - Severity: low
+2025-09-20 10:32:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https PA / Raw - Severity: low
+2025-09-20 10:32:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https PA / Raw - Severity: low
+2025-09-20 10:32:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https PA / Raw - Severity: low
+2025-09-20 10:32:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https PA / Raw - Severity: low
+2025-09-20 10:32:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https A - Severity: low
+2025-09-20 10:32:12 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https A - Severity: low
+2025-09-20 10:32:12 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https PA / Raw - Severity: low
+2025-09-20 10:32:12 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https A - Severity: low
+2025-09-20 10:32:12 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https PA / Raw - Severity: low
+2025-09-20 10:32:12 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https FA - Severity: low
+2025-09-20 10:32:12 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https R - Severity: low
+2025-09-20 10:32:12 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https R - Severity: low
+2025-09-20 10:32:12 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:54450 > 23.220.75.245:https R - Severity: low
+2025-09-20 10:32:16 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Release - Severity: low
+2025-09-20 10:32:16 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Discover - Severity: low
+2025-09-20 10:32:17 - [INFO] - [ALERT] DHCP Response Detected - Ether / IP / UDP / BOOTP / DHCP Offer - Severity: low
+2025-09-20 10:32:17 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Request - Severity: low
+2025-09-20 10:32:17 - [INFO] - [ALERT] DHCP Response Detected - Ether / IP / UDP / BOOTP / DHCP Ack - Severity: low
+2025-09-20 10:32:27 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Request - Severity: low
+2025-09-20 10:45:34 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Request - Severity: low
+2025-09-20 10:49:27 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 10:49:28 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 10:49:29 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 10:49:31 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:53326 > 23.215.0.138:http S - Severity: low
+2025-09-20 10:49:31 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:53326 > 23.215.0.138:http A - Severity: low
+2025-09-20 10:49:31 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:53326 > 23.215.0.138:http PA / Raw - Severity: low
+2025-09-20 10:49:31 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:53326 > 23.215.0.138:http A - Severity: low
+2025-09-20 10:49:31 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:53326 > 23.215.0.138:http FA - Severity: low
+2025-09-20 10:49:31 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https S - Severity: low
+2025-09-20 10:49:31 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:53326 > 23.215.0.138:http A - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https A - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https A - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https A - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https A - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https A - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https A - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https FA - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https R - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https R - Severity: low
+2025-09-20 10:49:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:46810 > 23.220.75.232:https R - Severity: low
+2025-09-20 10:49:36 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Release - Severity: low
+2025-09-20 10:49:37 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Discover - Severity: low
+2025-09-20 10:49:37 - [INFO] - [ALERT] DHCP Response Detected - Ether / IP / UDP / BOOTP / DHCP Offer - Severity: low
+2025-09-20 10:49:37 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Request - Severity: low
+2025-09-20 10:49:37 - [INFO] - [ALERT] DHCP Response Detected - Ether / IP / UDP / BOOTP / DHCP Ack - Severity: low
+2025-09-20 10:49:43 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Request - Severity: low
+2025-09-20 11:11:35 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 11:11:36 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 11:11:37 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 11:11:38 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:37042 > 23.215.0.136:http S - Severity: low
+2025-09-20 11:11:39 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:37042 > 23.215.0.136:http A - Severity: low
+2025-09-20 11:11:39 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:37042 > 23.215.0.136:http PA / Raw - Severity: low
+2025-09-20 11:11:39 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:37042 > 23.215.0.136:http A - Severity: low
+2025-09-20 11:11:39 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:37042 > 23.215.0.136:http A - Severity: low
+2025-09-20 11:11:39 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:37042 > 23.215.0.136:http FA - Severity: low
+2025-09-20 11:11:39 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https S - Severity: low
+2025-09-20 11:11:40 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:37042 > 23.215.0.136:http A - Severity: low
+2025-09-20 11:11:40 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https A - Severity: low
+2025-09-20 11:11:40 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https PA / Raw - Severity: low
+2025-09-20 11:11:40 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https A - Severity: low
+2025-09-20 11:11:40 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https A - Severity: low
+2025-09-20 11:11:40 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https PA / Raw - Severity: low
+2025-09-20 11:11:40 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https PA / Raw - Severity: low
+2025-09-20 11:11:40 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https PA / Raw - Severity: low
+2025-09-20 11:11:40 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https PA / Raw - Severity: low
+2025-09-20 11:11:41 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https A - Severity: low
+2025-09-20 11:11:41 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https A - Severity: low
+2025-09-20 11:11:41 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https PA / Raw - Severity: low
+2025-09-20 11:11:41 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https A - Severity: low
+2025-09-20 11:11:41 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https PA / Raw - Severity: low
+2025-09-20 11:11:41 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https FA - Severity: low
+2025-09-20 11:11:41 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https R - Severity: low
+2025-09-20 11:11:41 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https R - Severity: low
+2025-09-20 11:11:41 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:52818 > 23.215.0.138:https R - Severity: low
+2025-09-20 11:11:45 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Release - Severity: low
+2025-09-20 11:11:45 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Discover - Severity: low
+2025-09-20 11:11:46 - [INFO] - [ALERT] DHCP Response Detected - Ether / IP / UDP / BOOTP / DHCP Offer - Severity: low
+2025-09-20 11:11:46 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Request - Severity: low
+2025-09-20 11:11:46 - [INFO] - [ALERT] DHCP Response Detected - Ether / IP / UDP / BOOTP / DHCP Ack - Severity: low
+2025-09-20 11:18:28 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 11:18:29 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 11:18:30 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 11:18:31 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:59932 > 23.215.0.138:http S - Severity: low
+2025-09-20 11:18:31 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:59932 > 23.215.0.138:http A - Severity: low
+2025-09-20 11:18:31 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:59932 > 23.215.0.138:http PA / Raw - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:59932 > 23.215.0.138:http A - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:59932 > 23.215.0.138:http FA - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https S - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:59932 > 23.215.0.138:http A - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https A - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https A - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https A - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 11:18:32 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 11:18:33 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https A - Severity: low
+2025-09-20 11:18:33 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https A - Severity: low
+2025-09-20 11:18:33 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 11:18:33 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https PA / Raw - Severity: low
+2025-09-20 11:18:33 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https FA - Severity: low
+2025-09-20 11:18:33 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https R - Severity: low
+2025-09-20 11:18:33 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https R - Severity: low
+2025-09-20 11:18:33 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:59796 > 23.220.75.232:https R - Severity: low
+2025-09-20 11:18:37 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Release - Severity: low
+2025-09-20 11:18:37 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Discover - Severity: low
+2025-09-20 11:18:38 - [INFO] - [ALERT] DHCP Response Detected - Ether / IP / UDP / BOOTP / DHCP Offer - Severity: low
+2025-09-20 11:18:38 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Request - Severity: low
+2025-09-20 11:18:38 - [INFO] - [ALERT] DHCP Response Detected - Ether / IP / UDP / BOOTP / DHCP Ack - Severity: low
+2025-09-20 11:21:06 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 11:21:07 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 11:21:08 - [INFO] - [ALERT] ICMP Echo Request Detected - Ether / IP / ICMP 192.168.16.116 > 8.8.8.8 echo-request 0 / Raw - Severity: low
+2025-09-20 11:21:09 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:42094 > 23.192.228.80:http S - Severity: low
+2025-09-20 11:21:09 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:42094 > 23.192.228.80:http A - Severity: low
+2025-09-20 11:21:09 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:42094 > 23.192.228.80:http PA / Raw - Severity: low
+2025-09-20 11:21:09 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:42094 > 23.192.228.80:http A - Severity: low
+2025-09-20 11:21:09 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:42094 > 23.192.228.80:http FA - Severity: low
+2025-09-20 11:21:09 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https S - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] HTTP Traffic Detected - Ether / IP / TCP 192.168.16.116:42094 > 23.192.228.80:http A - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https A - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https PA / Raw - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https A - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https PA / Raw - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https A - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https PA / Raw - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https PA / Raw - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https PA / Raw - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https A - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https A - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https PA / Raw - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https PA / Raw - Severity: low
+2025-09-20 11:21:10 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https FA - Severity: low
+2025-09-20 11:21:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https R - Severity: low
+2025-09-20 11:21:11 - [INFO] - [ALERT] TLS/SSL Traffic Detected - Ether / IP / TCP 192.168.16.116:56164 > 23.192.228.84:https R - Severity: low
+2025-09-20 11:21:15 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Release - Severity: low
+2025-09-20 11:21:15 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Discover - Severity: low
+2025-09-20 11:21:15 - [INFO] - [ALERT] DHCP Response Detected - Ether / IP / UDP / BOOTP / DHCP Offer - Severity: low
+2025-09-20 11:21:15 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Request - Severity: low
+2025-09-20 11:21:19 - [INFO] - [ALERT] DHCP Request Detected - Ether / IP / UDP / BOOTP / DHCP Request - Severity: low
+2025-09-20 11:21:19 - [INFO] - [ALERT] DHCP Response Detected - Ether / IP / UDP / BOOTP / DHCP Ack - Severity: low

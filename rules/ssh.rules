@@ -1,0 +1,2 @@
+alert tcp any any -> any 22 (msg:"SSH Login Attempt Detected"; sid:1000008; rev:1;)
+

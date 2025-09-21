@@ -1,0 +1,2 @@
+alert tcp any any -> any 443 (msg:"TLS/SSL Traffic Detected"; sid:1000007; rev:1;)
+
